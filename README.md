@@ -8,6 +8,6 @@ This is NTUTRAIN IMLP course.
 | 作業3 |[Unit3_4_Categorical_features_實戰](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit03/4_Categorical_features_%E5%AF%A6%E6%88%B0.ipynb)<br>[Unit3_5_Prepocessing_實戰](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit03/5_Prepocessing_%E5%AF%A6%E6%88%B0.ipynb)<br>[Unit3_6_scikit_learn_Basic_實戰](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit03/6_scikit_learn_Basic_%E5%AF%A6%E6%88%B0.ipynb)|
 | 作業4 | [Unit4_Linear Regression_HW](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit04/Linear%20Regression_HW.ipynb)|
 | 作業5 | [Unit5_Logistic regression實戰](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit05/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb)<br>[Unit5.2_SVM實戰](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb)|
-| 作業6 | [Unit6_1.3_ConfusionMatrix_實戰]([https://github.com/EasyBoy5566/IMLP425/blob/main/Unit05/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit06/1.3_ConfusionMatrix_%E5%AF%A6%E6%88%B0.ipynb))<br>[Unit6_2.3_Ensemble實戰](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit06/2.3_Ensemble%E5%AF%A6%E6%88%B0.ipynb)|
+| 作業6 | [Unit6_1.3_ConfusionMatrix_實戰]([https://github.com/EasyBoy5566/IMLP425/blob/main/Unit05/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit06/1.3_ConfusionMatrix_%E5%AF%A6%E6%88%B0.ipynb)<br>[Unit6_2.3_Ensemble實戰](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit06/2.3_Ensemble%E5%AF%A6%E6%88%B0.ipynb)|
 | 小專案 | |
 
