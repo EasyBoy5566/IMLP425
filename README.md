@@ -9,5 +9,5 @@ This is NTUTRAIN IMLP course.
 | 作業4 | [Unit4_Linear Regression_HW](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit04/Linear%20Regression_HW.ipynb)|
 | 作業5 | [Unit5_Logistic regression實戰](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit05/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb)<br>[Unit5.2_SVM實戰](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb)|
 | 作業6 | [Unit6_1.3_ConfusionMatrix_實戰](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit06/1.3_ConfusionMatrix_%E5%AF%A6%E6%88%B0.ipynb)<br>[Unit6_2.3_Ensemble實戰](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit06/2.3_Ensemble%E5%AF%A6%E6%88%B0.ipynb)<br> ![Titanic score](https://github.com/EasyBoy5566/IMLP425/blob/main/Unit06/Titanic%20score.png)|
-| 小專案 | |
+| 小專案 | [Final Project](https://github.com/EasyBoy5566/IMLP425/blob/main/IMLP425%20%E9%8D%BE%E6%98%93%E6%86%B2%20Final%20project/Final%20Project.ipynb)|
 
